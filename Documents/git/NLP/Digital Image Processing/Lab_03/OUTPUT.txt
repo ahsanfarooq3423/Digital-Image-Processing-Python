@@ -1,0 +1,9 @@
+a) Name: Muhammad Ahsan Farooq 
+   Class: BESE-7B
+   Registration # 127662
+
+b) This lab is about Binarization of the image, Creating the Histogram of the Insities of the gray scale image and implement the XY-cuts algorithm
+
+d) The first task is done choosing a particular threshold the split the grayscale intensities values i.e 0-255 into two binary corresponding values i.e 0 or 1
+   The second task was about histogram of the intensities of the grayscale image for the     range of the 0-255 values
+   The third task is about XY-cutting of some image maily a document image by using the binary image.

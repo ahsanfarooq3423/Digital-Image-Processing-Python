@@ -1,0 +1,5 @@
+a) Muhammad Ahsan Farooq
+b) This lab was about the basic image processing tasks like opening the image, saving the 
+image, using different python libraries like Numpy use for computation, Python Image Library (PIL) use for basic image processing tasks 
+
+d) Task#3 was about applying different filter on the image and also converting the image to grayscale.
